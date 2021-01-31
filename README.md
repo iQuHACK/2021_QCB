@@ -1,4 +1,5 @@
 # Quantum Whack-A-Mole
+A slightly violent way to learn quantum circuits
 ## Team: QCB
 Abhay Agarwal, Emiliia Dyrenkova, Andris Huang
 ## Abstract
