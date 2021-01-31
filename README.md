@@ -13,7 +13,7 @@ Quantum computing is a recently booming field that attracts more and more people
 5. The game ends when the players use the Classical Hammer to hit one "hole" of their choice. The quibts will be measured and the resulting state will be used to compare with the "hole" that the players choose. If the results match, a winning message will be shown; otherwise, the players will unfortunately loose the game.
 
 ## What Is Quantum About the Game
-The mole is in the superposition of being in different holes. This game differs from the classical Whack-A-Mole in that the players could manipulate the probability of finding the mole in one hole of their choice. In that way, the players could potentially find the mole every time with a good strategy.
+This game differs from the classical Whack-A-Mole in that the players could manipulate the probability of finding the mole in one hole of their choice. In that way, the players could potentially find the mole every time with a good strategy. In addition, the mole is also described in a superposition state, which can be a good way to visualize the concept of superposition.
 
 ## Details About the Implementation
 We implement the code with qiskit and numpy and simulate the circuit using the IonQ simulator and quantum computer with 11 qubits. To access the code, the user should download the scripts, install qiskit, and run main.py.
